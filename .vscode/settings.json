@@ -1,3 +1,10 @@
 {
-    "cmake.sourceDirectory": "/workspaces/C-Program-Design-4"
+    "cmake.sourceDirectory": "/workspaces/C-Program-Design-4",
+    "files.associations": {
+        "bit": "c",
+        "*.tcc": "c",
+        "cmath": "c",
+        "random": "c",
+        "string.h": "c"
+    }
 }
